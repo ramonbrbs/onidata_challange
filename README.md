@@ -41,7 +41,7 @@ Optional:
 * Provide an authenticated admin view that allows me to view all contracts
 > /admin
 * Document the API
-> /docs
+> /api/docs
 * Expand the financial model to include taxes/insurance and other costs
 > nope
 
