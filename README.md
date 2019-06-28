@@ -58,3 +58,7 @@ It should be created at admin panel (*/admin* url)
 
 ### Admin credentials
 Available on current sqlite database: admin / admin1234
+
+### Requirements
+Available at src/requirements.txt
+Python version 3.7
