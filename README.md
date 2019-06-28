@@ -1,6 +1,6 @@
 # challenge
 
-##Comments
+## Comments
 
 Acceptance Criteria
 * Users are able to submit contracts and payments to the API
