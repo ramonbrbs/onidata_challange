@@ -51,7 +51,7 @@ Optional:
 ### Increase Amount by Month (compound interest)
 There is a command called <strong>increase_amount_due</strong> acessible via:
 ``python manage.py increase_amount_due.py`` (contracts/management/commands).
-It should by called daily basis (cron) to verify all the *contracts* with due date on this day and increase the value of *amount_due*
+It should be called daily basis (cron) to verify all the *contracts* with due date on this day and increase the value of *amount_due*
 
 ### Tokens
 It should be created at admin panel (*/admin* url)
